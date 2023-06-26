@@ -3,7 +3,7 @@
 在本地计算机上轻松克隆你在GitHub上Star的仓库
 
 ## 程序截图
-![](https://github.com/bai0012/GitHub_Star_backupper/demo.png)
+![](https://raw.githubusercontent.com/bai0012/GitHub_Star_backupper/main/demo.png)
 
 
 ## 如何使用
