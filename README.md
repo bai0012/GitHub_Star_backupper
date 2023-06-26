@@ -8,9 +8,7 @@
 
 ## 如何使用
 
-### 使用源代码程序
-
-首先安装python，已在python3.10.11上测试
+首先安装python或conda，已在python3.10.11上测试
 
 拉取该repo，并且安装Python依赖项：
 
@@ -51,4 +49,14 @@ python main.py
 若需要更新所有储存库，只需要再运行一次即可。
 
 
+## 如何申请Github个人访问令牌
+
+进入[Fine-grained personal access tokens](https://github.com/settings/tokens?type=beta)
+
+选择Generate New token
+
+输入令牌名称并选择过期时间（最大为一年），然后创建令牌。
+
 (本程序在GPT 4指导下完成)
+
+
