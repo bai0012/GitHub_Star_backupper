@@ -3,9 +3,8 @@
 在本地计算机上轻松克隆你在GitHub上Star的仓库
 
 ## 程序截图
-![]()
+![](https://github.com/bai0012/GitHub_Star_backupper/demo.png)
 
-（如截图中音轨25和11的顺序就颠倒了，这是lrc字幕存在的问题）
 
 ## 如何使用
 
@@ -31,7 +30,12 @@ pip install -r requirements.txt
 如：
 
 ```python
+# 在这里输入你的Github用户名和个人访问令牌（Personal Access Token）
+username = "bai0012"
+token = "github_pat_11AMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
+# 指定下载路径,请使用双斜线而不是斜线
+download_path = "D://github"
 
 ```
 
